@@ -37,6 +37,7 @@ html {
     padding-left: 3%;
     padding-right: 3%;
     margin: auto;
+
 }
 
 body {
@@ -182,4 +183,70 @@ body {
 
 .EmpowerContent {
     font-size: 12px;
+}
+
+.index_ibendo_menu {}
+
+._index_ibendo {
+    margin-right: 2%;
+    margin-left: 2%;
+    display: flex;
+    width: 120%;
+    text-align: center;
+    color: aliceblue;
+    overflow-x: auto;
+    overflow: hidden;
+
+}
+
+._index_ibendo::-webkit-scrollbar {
+    width: 1px;
+}
+
+.index_ibendo {
+    margin-right: 2%;
+    margin-left: 2%;
+    display: flex;
+    text-align: center;
+    color: aliceblue;
+    overflow: hidden;
+    overflow-x: auto;
+
+}
+
+.ibendo_menu {
+
+    background-color: #FE7F7F;
+    border: solid 1px whitesmoke;
+    border-radius: 13px;
+    padding-right: 1.5%;
+    padding-left: 1.5%;
+    margin-right: 2%;
+}
+
+._index_ibendo {
+    width: 100%;
+    display: flex;
+    overflow-x: auto;
+
+}
+
+._index_newNFTs::-webkit-scrollbar {
+    width: 1px;
+}
+
+.index_ibendos {
+    margin-right: 1%;
+    padding-right: 3%;
+
+
+}
+
+.ibendoTitle {
+    width: 150px;
+    margin-bottom: 3%;
+    font-size: 20px;
+    background-color: #4d4d4d;
+    border-radius: 13px;
+
 }
