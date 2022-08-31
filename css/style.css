@@ -1,0 +1,87 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-size: 12px;
+}
+
+a {
+    text-decoration: none;
+    /* 取消文字修飾 */
+}
+
+article,
+section,
+aside,
+address,
+nav,
+header,
+footer,
+img {
+    display: block;
+}
+
+img {
+    border: none;
+}
+
+li {
+    list-style: none;
+}
+
+body {
+    background-color: #292929;
+    width: 428px;
+    height: 926px;
+    padding-top: 20px;
+    padding-left: 3%;
+    padding-right: 3%;
+}
+
+.topbar {
+    display: flex;
+    height: 51px;
+    justify-content: space-around;
+}
+
+.topbar input {
+    width: 296px;
+    height: 24px;
+    border-radius: 10px;
+    background-color: #292929;
+    border-color: rgb(255, 255, 255);
+    text-indent: 30px;
+    line-height: 51px;
+    box-sizing: border-box;
+}
+
+.menu {
+    display: flex;
+    margin: auto;
+    margin-left: 3%;
+    box-sizing: border-box;
+
+}
+
+.search {
+    margin: auto;
+    box-sizing: border-box;
+}
+
+.menuicon {
+    display: flex;
+    width: 29.15px;
+    height: 14px;
+    justify-content: space-around;
+}
+
+.profile {
+    margin: auto;
+    margin-right: 5%;
+}
+
+.banner {
+    box-sizing: border-box;
+}
