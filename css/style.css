@@ -1,5 +1,5 @@
-@media only screen and (min-width: 321px) and (max-width: 768px) {
     * {
+
         margin: 0;
         padding: 0;
     }
@@ -186,7 +186,6 @@
         font-size: 12px;
     }
 
-    .index_ibendo_menu {}
 
     ._index_ibendo {
         margin-right: 2%;
@@ -251,5 +250,3 @@
         border-radius: 13px;
 
     }
-
-}
