@@ -4,7 +4,10 @@
 }
 
 body {
-    font-size: 12px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
 }
 
 a {
@@ -31,10 +34,10 @@ li {
     list-style: none;
 }
 
-body {
+
+html {
     background-color: #292929;
     width: 428px;
-    height: 926px;
     padding-top: 20px;
     padding-left: 3%;
     padding-right: 3%;
@@ -72,7 +75,7 @@ body {
 
 .menuicon {
     display: flex;
-    width: 29.15px;
+    width: 29px;
     height: 14px;
     justify-content: space-around;
 }
@@ -84,4 +87,62 @@ body {
 
 .banner {
     box-sizing: border-box;
+    margin-bottom: 3%;
+}
+
+.GFi_menu {
+    display: flex;
+    color: rgb(255, 255, 255);
+    justify-content: space-around;
+    border-bottom: #9c9b9b99 solid 1px;
+    padding-bottom: 1%;
+    margin-bottom: 3%;
+}
+
+.menu_Ibendo {
+    font-size: 16px;
+    font-weight: 876;
+    color: #FE7F7F;
+    border-bottom: #FE7F7F solid 1px;
+}
+
+.index_ {
+    width: 100%;
+    display: flex;
+
+    overflow-x: auto;
+}
+
+.index_::-webkit-scrollbar {
+    width: 1px;
+}
+
+.indextitle {
+    font-size: 20px;
+    color: aliceblue;
+    font-weight: 876;
+    font-size: 20px;
+    margin-bottom: 3%;
+}
+
+.index_newNFTs {
+    width: 280px;
+    color: aliceblue;
+    margin-bottom: 6%;
+    margin-right: 6%;
+
+}
+
+.newNFTsImg {
+    margin-bottom: 3%;
+}
+
+.newNFTsTitle {
+    margin-bottom: 3%;
+    font-size: 20px;
+}
+
+.newNFTsContent {
+    margin-bottom: 3%;
+    width: 280px;
 }
