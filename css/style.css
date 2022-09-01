@@ -249,5 +249,17 @@
         font-size: 20px;
         background-color: #4d4d4d;
         border-radius: 13px;
+    }
 
+    .index_ibendos_cards {
+        width: 95%;
+        height: 540px;
+        background-color: #4d4d4d;
+        border-radius: 10px;
+        margin-bottom: 18px;
+    }
+
+    .index_footer {
+        border-top: solid 1px #5c5c5c;
+        margin: auto;
     }
