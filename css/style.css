@@ -266,6 +266,7 @@
         height: 78px;
         border-top: solid 1px #5c5c5c;
         left: calc(50% - 428px/2 - 0px);
+        bottom: -2px;
     }
 
     .index_footer {
