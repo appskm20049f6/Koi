@@ -78,10 +78,7 @@
 
     }
 
-    .menu:hover {
-        filter: drop-shadow(0px #000000);
-        cursor: pointer;
-    }
+
 
     .search {
         position: relative;
@@ -96,7 +93,7 @@
     }
 
     .menuicon {
-        position: absolute;
+        position: relative;
         display: flex;
         justify-content: space-around;
         top: 2%;
@@ -114,10 +111,7 @@
         margin-right: 5%;
     }
 
-    .profile:hover {
-        filter: drop-shadow(0px 4px 4px #000000);
-        cursor: pointer;
-    }
+
 
     .banner {
         box-sizing: border-box;
@@ -133,15 +127,7 @@
         margin-bottom: 3%;
     }
 
-    .index_menu:hover {
-        font-size: 16px;
-        font-weight: 876;
-        color: #FE7F7F;
-        border-bottom: #FE7F7F solid 1px;
-        position: relative;
-        left: -1px;
-        cursor: pointer;
-    }
+
 
     .menu_Ibendo {
         font-size: 16px;
@@ -333,6 +319,10 @@
         margin-top: -13%;
         grid-row: 2;
         grid-column: 2/4;
+    }
+
+    .index_menu {
+        border-bottom: #fe7f7f00 1px solid;
     }
 
     .cards_img {
