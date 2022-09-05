@@ -51,6 +51,18 @@
 
     }
 
+    #nav {
+
+        background-color: #4d4d4d;
+        position: absolute;
+        width: 70%;
+        height: 100%;
+        z-index: 50;
+        margin-top: -5%;
+        margin-left: -3%;
+        margin-bottom: -10%;
+    }
+
     .topbar {
         display: flex;
         height: 51px;
