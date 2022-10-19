@@ -1,0 +1,19 @@
+$width:100%;
+
+@mixin padpro{
+    @media(max-width:1024px){
+      @content;
+    }
+  }
+
+@mixin pad{
+    @media(max-width:768px){
+      @content;
+    }
+  }
+
+@mixin mobile{
+    @media(max-width:375px){
+      @content;
+    }
+
