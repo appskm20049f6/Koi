@@ -2,7 +2,7 @@
 
 <template></template>
 
-<style lang="scss">
+<style lang="scss" scoped>
 @import "../assets/scss/_RWD.scss";
 
 @include padpro {
