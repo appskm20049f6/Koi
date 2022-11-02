@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1015" height="249" viewBox="0 0 1015 249">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 96px;
+        filter: url(#filter);
+        font-family: GenYoMinJP-H, "GenYoMin JP";
+      }
+
+      .cls-2 {
+        font-size: 80px;
+      }
+
+      .cls-3 {
+        fill: #fff8e6;
+      }
+    </style>
+    <filter id="filter" x="0" y="0" width="1015" height="249" filterUnits="userSpaceOnUse">
+      <feGaussianBlur result="blur" stdDeviation="6.667" in="SourceAlpha"/>
+      <feComposite result="composite"/>
+      <feComposite result="composite-2"/>
+      <feComposite result="composite-3"/>
+      <feFlood result="flood" flood-color="#fff"/>
+      <feComposite result="composite-4" operator="in" in2="composite-3"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+      <feBlend result="blend-2" in="SourceGraphic"/>
+      <feImage preserveAspectRatio="none" x="19" y="19" width="976" height="210" result="image" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iOTc2IiBoZWlnaHQ9IjIxMCIgdmlld0JveD0iMCAwIDk3NiAyMTAiPgogIDxkZWZzPgogICAgPHN0eWxlPgogICAgICAuY2xzLTEgewogICAgICAgIG9wYWNpdHk6IDAuOTg7CiAgICAgICAgZmlsbDogdXJsKCNsaW5lYXItZ3JhZGllbnQpOwogICAgICB9CiAgICA8L3N0eWxlPgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJsaW5lYXItZ3JhZGllbnQiIHgxPSI1MzYuOTYyIiB5MT0iMjEwIiB4Mj0iNDM5LjAzOCIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAiIHN0b3AtY29sb3I9IiM1ODMwMDAiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIwLjAwNyIgc3RvcC1jb2xvcj0iIzU4MzAwMCIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEiIHN0b3AtY29sb3I9IiNiZThmMDAiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxyZWN0IGNsYXNzPSJjbHMtMSIgd2lkdGg9Ijk3NiIgaGVpZ2h0PSIyMTAiLz4KPC9zdmc+Cg=="/>
+      <feComposite result="composite-5" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend-3" in2="blend-2"/>
+    </filter>
+  </defs>
+  <text id="準備好了嗎_一起開啟跨次元的旅程吧_" data-name="準備好了嗎?  一起開啟跨次元的旅程吧!  " class="cls-1" x="17" y="102.001">準備好了嗎? <tspan class="cls-2" x="17" dy="96">一起開啟跨次元的旅程吧!<tspan class="cls-3"> </tspan></tspan></text>
+</svg>
